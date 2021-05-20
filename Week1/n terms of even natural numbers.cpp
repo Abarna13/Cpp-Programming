@@ -1,3 +1,34 @@
+/*
+Create a program in C to display the n terms of even natural number and their sum.
+
+Input Format
+
+5
+
+Constraints
+
+-
+
+Output Format
+
+The even numbers are :2 4 6 8 10 The Sum of even Natural Number upto 5 terms : 30
+
+Sample Input 0
+
+5
+Sample Output 0
+
+The even numbers are :2 4 6 8 10
+The Sum of even Natural Number upto 5 terms : 30
+Sample Input 1
+
+7
+Sample Output 1
+
+The even numbers are :2 4 6 8 10 12 14 
+The Sum of even Natural Number upto 7 terms : 56 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
