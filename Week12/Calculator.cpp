@@ -1,3 +1,36 @@
+/*
+Write a c++ program to perform multiplication and division of two numbers using class template
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+-
+
+Sample Input 0
+
+-
+Sample Output 0
+
+Integer values:                                                                                                                                
+Numbers are: 10 and 2.                                                                                                                         
+Product is: 20                                                                                                                                 
+Division is: 5                                                                                                                                 
+                                                                                                                                               
+Float values:                                                                                                                                  
+Numbers are: 4.4 and 1.2.                                                                                                                      
+Product is: 5.28                                                                                                                               
+Division is: 3.66667
+*/
+
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
