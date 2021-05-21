@@ -1,3 +1,29 @@
+/*
+Write a c++ program to find out the Square and Cube of a number using hierarchical inheritance ?
+
+Input Format
+
+3 3
+
+Constraints
+
+-
+
+Output Format
+
+Square: 9 Cube: 27
+
+Sample Input 0
+
+3
+3
+Sample Output 0
+
+Square: 9
+Cube: 27
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
