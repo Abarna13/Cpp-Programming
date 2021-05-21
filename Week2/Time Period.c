@@ -1,3 +1,47 @@
+/*Create a C Program to Calculate Difference Between Two Time Periods.(by using structure and function).
+
+Input Format
+
+13
+34
+55
+8
+12
+15
+
+Constraints
+
+-
+
+Output Format
+
+Time Difference: 13:34:55 - 8:12:15 = 5:22:40
+
+Sample Input 0
+
+13                                                                                                                        
+34                                                                                                                        
+55                                                                                                                        
+8                                                                                                                         
+12                                                                                                                        
+15 
+Sample Output 0
+
+Time Difference: 13:34:55 - 8:12:15 = 5:22:40 
+Sample Input 1
+
+11                                                                                                                       
+20                                                                                                                       
+33                                                                                                                       
+3                                                                                                                        
+15                                                                                                                       
+25  
+Sample Output 1
+
+Time Difference: 11:20:33 - 3:15:25 = 8:5:8 
+*/
+
+
 #include <stdio.h>
 
 struct TIME {
