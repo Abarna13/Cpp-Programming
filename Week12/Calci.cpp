@@ -1,3 +1,37 @@
+/*
+Write a c++ program to add and subtract two numbers using class template
+
+Input Format
+
+2 1 2.4 1.2
+
+Constraints
+
+-
+
+Output Format
+
+Int results: Numbers are: 2 and 1. Addition is: 3 Subtraction is: 1
+
+Float results: Numbers are: 2.4 and 1.2. Addition is: 3.6 Subtraction is: 1.2
+
+Sample Input 0
+
+-
+Sample Output 0
+
+Int results:
+Numbers are: 2 and 1.
+Addition is: 3
+Subtraction is: 1
+
+Float results:
+Numbers are: 2.4 and 1.2.
+Addition is: 3.6
+Subtraction is: 1.2
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
