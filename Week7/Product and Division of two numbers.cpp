@@ -1,3 +1,30 @@
+/*
+Write a c++ program to calculate the product and division of two numbers using hierarchical inheritance?
+
+Input Format
+
+20 10
+
+Constraints
+
+-
+
+Output Format
+
+The values of class A: 20 10 Product: 200 The values of class A: 20 10 Division: 2
+
+Sample Input 0
+
+20
+10
+Sample Output 0
+
+The values of class A: 20    10
+Product: 200
+The values of class A: 20    10
+Division: 2
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
