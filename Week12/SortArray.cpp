@@ -1,3 +1,29 @@
+/*
+Write a C++ program for sorting the values using function template
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+-
+
+Sample Input 0
+
+-
+Sample Output 0
+
+Sorted value                                                                                                                  
+11 34 56 87 92                                                                                                                
+Sorted value                                                                                                                  
+a f i r s 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
