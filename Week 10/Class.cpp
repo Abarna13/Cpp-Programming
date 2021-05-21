@@ -1,3 +1,29 @@
+/*
+Remove the blanks and Complete the C++ program to display the output as: PoweredDevice class Scanner class Printer class Copier class
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+-
+
+Sample Input 0
+
+-
+Sample Output 0
+
+PoweredDevice class
+Scanner class
+Printer class
+Copier class
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
