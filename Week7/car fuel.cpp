@@ -1,3 +1,28 @@
+/*
+Write a c++ program to find the cost of the car fuel using abstract class and functions,given the fuel price -79 as input?
+
+Input Format
+
+58
+
+Constraints
+
+-
+
+Output Format
+
+The cost for the car fuel is: 4582
+
+Sample Input 0
+
+58
+Sample Output 0
+
+The cost for the car fuel is: 4582
+*/
+ 
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
