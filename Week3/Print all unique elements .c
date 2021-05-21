@@ -1,3 +1,48 @@
+/*
+Write a program in C to print all unique elements in an array.
+
+Input Format
+
+5
+1
+2
+2
+3
+4
+
+Constraints
+
+-
+
+Output Format
+
+The unique elements found in the array are:
+1 3 4
+
+Sample Input 0
+
+5                                                                                                                         
+1                                                                                                                         
+2                                                                                                                         
+2                                                                                                                         
+3                                                                                                                         
+4  
+Sample Output 0
+
+The unique elements found in the array are:                                                                               
+1 3 4   
+Sample Input 1
+
+3                                                                                                                        
+1                                                                                                                        
+1                                                                                                                        
+2
+Sample Output 1
+
+The unique elements found in the array are:                                                                              
+2
+*/
+
 #include <stdio.h>
 #define MAX_SIZE 100
 int main()
