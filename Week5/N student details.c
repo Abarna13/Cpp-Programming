@@ -1,3 +1,35 @@
+/*
+Create C program to read and print the N student details using structure and Dynamic Memory Allocation.
+
+Input Format
+
+2
+saveetha 121 96
+sabeetha 112 95
+
+Constraints
+
+-
+
+Output Format
+
+Entered details are:
+saveetha 121 96.00
+sabeetha 112 95.00
+
+Sample Input 0
+
+2                                                                                                                         
+saveetha 121 96                                                                                                           
+sabeetha 112 95   
+Sample Output 0
+
+Entered details are:                                                                                                      
+                      saveetha     121   96.00                                                                            
+                      sabeetha     112   95.00 
+                      
+*/
+
 #include <assert.h>
 #include <ctype.h>
 #include <limits.h>
