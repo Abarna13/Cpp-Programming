@@ -1,3 +1,48 @@
+/*
+Write a program to find out the student details using multiple inheritance?
+
+Input Format
+
+roll No: 23456
+
+m1=25
+
+m2=98
+
+sm=98
+
+Constraints
+
+-
+
+Output Format
+
+Roll No : 23456
+
+Total : 221
+
+Average : 73
+
+Sample Input 0
+
+roll No: 23456
+
+m1=25
+
+m2=98
+
+sm=98
+Sample Output 0
+
+Roll No : 23456
+
+Total : 221
+
+Average : 73
+*/
+
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
