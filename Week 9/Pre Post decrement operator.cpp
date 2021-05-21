@@ -1,3 +1,31 @@
+/*
+Write a c++ program to implement the pre and post decrement operator using operator overloading in polymorphism concept
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+i = 3 i = 3 i = 2 i = 2 i = 1 i = 2
+
+Sample Input 0
+
+-
+Sample Output 0
+
+i = 3
+i = 3
+i = 2
+i = 2
+i = 1
+i = 2
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
