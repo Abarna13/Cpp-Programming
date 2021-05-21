@@ -1,3 +1,45 @@
+/*
+Develop a C++ program based on the below class diagram.
+
+image
+
+Input Format
+
+Reads no_of_litres Reads fuel_prices Reads cost Reads colour Reads no_of_wheels
+
+Constraints
+
+-
+
+Output Format
+
+-
+
+Sample Input 0
+
+10
+79
+Blue
+4
+Sample Output 0
+
+Fuel amount is: 79                                                                 
+Colour of the car is: Blue                                                       
+No of wheels for bus is: 4
+Sample Input 1
+
+15
+79
+White
+4
+Sample Output 1
+
+Fuel amount is: 79                                                                   
+Colour of the car is: White                                                        
+No of wheels for bus is: 4 
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
