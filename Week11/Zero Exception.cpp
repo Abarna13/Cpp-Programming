@@ -1,3 +1,27 @@
+/*
+Write a c++ program to shows handling of division by zero exception.
+
+Input Format
+
+30 0 0
+
+Constraints
+
+-
+
+Output Format
+
+Division by Zero.
+
+Sample Input 0
+
+30 0 0 
+Sample Output 0
+
+Division by Zero.
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
