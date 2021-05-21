@@ -1,3 +1,29 @@
+/*
+Write a C++ program to find the area of rectangle and triangle by making the area() as virtual function in the base class.(width=10 and height=5)
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+-
+
+Sample Input 0
+
+-
+Sample Output 0
+
+Areas of Different Shapes                                                                                              
+Area of Triangle: 25                                                                                                        
+Area of Rectangle: 50 
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
