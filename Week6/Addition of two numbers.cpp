@@ -1,3 +1,39 @@
+/*
+Create a program and input 2 integers in main and pass them to default constructor of the class.Show the result of the addition of 2 numbers
+
+Input Format
+
+10
+20
+
+Constraints
+
+-
+
+Output Format
+
+numbers initialized
+The addition result on:30
+
+Sample Input 0
+
+10
+20
+Sample Output 0
+
+numbers initialized                                                                                                      
+The addition result on:30 
+Sample Input 1
+
+50
+24
+Sample Output 1
+
+numbers initialized 
+The addition result on:74
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
