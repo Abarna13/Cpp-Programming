@@ -1,3 +1,31 @@
+/*
+Create C program to read a 1-D array, print sum of all elements along with inputted array elements using Dynamic Memory Allocation.
+
+Input Format
+
+5
+11 22 33 44 55
+
+Constraints
+
+-
+
+Output Format
+
+Array elements are: 11 22 33 44 55
+Sum of all elements: 165
+
+Sample Input 0
+
+5                                                                                                                        
+11 22 33 44 55   
+Sample Output 0
+
+Array elements are: 11  22  33  44  55                                                                                   
+Sum of all elements: 165   
+*/
+
+
 #include <assert.h>
 #include <ctype.h>
 #include <limits.h>
