@@ -1,3 +1,33 @@
+/*
+Write a C++ program to swap data using function templates?
+
+Input Format
+
+i1 = 2, i2 = 1; f1 = 2.4, f2 = 2.1; c1 = 'a', c2 = 'b'
+
+Constraints
+
+-
+
+Output Format
+
+i1 = 1 i2 = 2 f1 = 2.1 f2 = 2.4 c1 = b c2 = a
+
+Sample Input 0
+
+i1 = 2, i2 = 1;
+f1 = 2.4, f2 = 2.1;
+c1 = 'a', c2 = 'b';
+Sample Output 0
+
+i1 = 1
+i2 = 2
+f1 = 2.1
+f2 = 2.4
+c1 = b
+c2 = a
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
