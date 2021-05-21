@@ -1,3 +1,31 @@
+/*
+Program to display largest among two numbers using function templates.
+
+Input Format
+
+5 10 12.4 10.2 z Z
+
+Constraints
+
+-
+
+Output Format
+
+10 is larger. 12.4 is larger. z has larger ASCII value.
+
+Sample Input 0
+
+5 10 
+12.4 10.2 
+z Z
+Sample Output 0
+
+10 is larger.
+12.4 is larger.
+z has larger ASCII value.
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
