@@ -1,3 +1,38 @@
+/*
+Write a C++ program to find the lucky number. An exception will be throwed if number is less or greater than lucky number.
+
+Input Format
+
+-
+
+Constraints
+
+-
+
+Output Format
+
+-
+
+Sample Input 0
+
+54
+Sample Output 0
+
+Sorry!!! Number is less than lucky number
+Sample Input 1
+
+146
+Sample Output 1
+
+Sorry!!! Number is greater than lucky number
+Sample Input 2
+
+100
+Sample Output 2
+
+You have found the lucky number!!!!
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
